@@ -15,18 +15,10 @@ Versatile Cybersecurity Engineer & QA Automation Specialist with strong hands-on
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhkhassan&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mhkhassan&theme=dark&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhassan&layout=compact&theme=dark&cache_seconds=1800" />
-</p>
 
 
 
